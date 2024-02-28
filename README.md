@@ -1,6 +1,6 @@
 <h1 align="center">  Hi there 👋  I am Abdul Basith K </h1>
 <h2 align="center" style="font-size: 100px;"> Senior DevOps Engineer</h2>
-<h4 align="center" style="font-size: 100px; margin-top: 0;">CKA, CKAD, RHCSA, RHCE, CCNA</h4>
+<h4 align="center" style="font-size: 100px; margin-top: 0;">CKA, CKAD, AWS CLF-C02, RHCSA, RHCE, CCNA</h4>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulkbasith&label=Views&color=blue&style=plastic&style=for-the-badge" alt="abdulkbasith" /> </p>
